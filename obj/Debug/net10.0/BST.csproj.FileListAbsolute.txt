@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Documentos\2526-tareas_estructura_de_datos\BST\bin\Debug\net10.0\BST.exe
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Documentos\2526-tareas_estructura_de_datos\BST\bin\Debug\net10.0\BST.deps.json
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Documentos\2526-tareas_estructura_de_datos\BST\bin\Debug\net10.0\BST.runtimeconfig.json
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Documentos\2526-tareas_estructura_de_datos\BST\bin\Debug\net10.0\BST.dll
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Documentos\2526-tareas_estructura_de_datos\BST\bin\Debug\net10.0\BST.pdb
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Documentos\2526-tareas_estructura_de_datos\BST\obj\Debug\net10.0\BST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Documentos\2526-tareas_estructura_de_datos\BST\obj\Debug\net10.0\BST.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Documentos\2526-tareas_estructura_de_datos\BST\obj\Debug\net10.0\BST.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Documentos\2526-tareas_estructura_de_datos\BST\obj\Debug\net10.0\BST.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Documentos\2526-tareas_estructura_de_datos\BST\obj\Debug\net10.0\BST.dll
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Documentos\2526-tareas_estructura_de_datos\BST\obj\Debug\net10.0\refint\BST.dll
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Documentos\2526-tareas_estructura_de_datos\BST\obj\Debug\net10.0\BST.pdb
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Documentos\2526-tareas_estructura_de_datos\BST\obj\Debug\net10.0\BST.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Documentos\2526-tareas_estructura_de_datos\BST\obj\Debug\net10.0\ref\BST.dll
